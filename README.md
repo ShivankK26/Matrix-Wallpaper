@@ -4,7 +4,7 @@
 
 
 
-In this Project, I've built a WebApp in which the viewer can see the Matrix Digital Rain like the one shown in matrix movie. The Tech Stack used is JavaScript.
+In this Project, I've built a WebApp in which the viewer can see the Matrix Digital Rain like the one shown in matrix movie.
 
 
 Use the `README.md` to get started.
@@ -26,7 +26,7 @@ The Tech Stacks used are:
 
 <!-- GETTING STARTED -->
 # Getting Started
-To get started, first of all create a HTML and CSS file. For this Project, we'll take a list of special characters which appear to us as matrix rain. These characters are taken in an arrary called CharArr. To display the rain, we'll use HTML canvas method.
+To get started, first of all create a HTML file. For this Project, we'll take a list of special characters which appear to us as matrix rain. These characters are taken in an arrary called CharArr. To display the rain, we'll use HTML canvas method.
 
 
 
