@@ -35,4 +35,4 @@ To get started, first of all create a HTML file. For this Project, we'll take a 
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: https://shivankk26.github.io/Matrix-Wallpaper/
+Project Link: 
